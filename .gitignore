@@ -50,3 +50,7 @@ build/
 # Git submodules prevention
 .gitmodules
 *.git/
+
+# Claude files
+CLAUDE.md
+.claude/
